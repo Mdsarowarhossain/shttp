@@ -18,3 +18,7 @@ Step 1. Add the JitPack repository to your build file
 
 ##Step 2. Add the dependency
   `  implementation 'com.github.Mdsarowarhossain:shttp:Tag'`
+
+
+##jitpack 
+[![](https://jitpack.io/v/Mdsarowarhossain/shttp.svg)](https://jitpack.io/#Mdsarowarhossain/shttp)
