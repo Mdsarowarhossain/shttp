@@ -19,7 +19,7 @@ public class Shttp {
 
     public static void getRequest(String url, String key,
                                   ShttpOnResponseListener shttpOnResponseListener) {
-        Log.e("112233", "here");
+       // Log.e("112233", "here");
 
         //shttpOnResponseListener = (ShttpOnResponseListener) context;
         OkHttpClient client = new OkHttpClient();
